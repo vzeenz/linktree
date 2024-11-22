@@ -1,3 +1,3 @@
-### Simple UI🚀
+### Linktree🚀
 
 ![Demo Photo](images/Wireframe.png)
